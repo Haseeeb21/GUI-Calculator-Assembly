@@ -138,6 +138,7 @@ If the user enters 0 then the program will jump to exit function and then displa
 
 After this the emulator will be halted and the program is executed.
 
+![image](https://user-images.githubusercontent.com/91841622/193596697-da026a58-7a4f-4f75-9db5-2ab18adcca09.png)
 
 
 
